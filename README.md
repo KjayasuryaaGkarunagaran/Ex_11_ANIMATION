@@ -20,12 +20,12 @@ Android Studio(Latest Version)
 
 ## PROGRAM:
 ```
+/*
 Program to display animation operation”.
 Developed by: Jayasuryaa k
 Registeration Number : 212222040060
+*/
 ```
-
-## OUTPUT
 ## In activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
